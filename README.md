@@ -16,7 +16,7 @@ cd book-recommender-system
 Usage
 Prepare the dataset:
 Place your dataset files in the specified (make sure to keep it where your scripts are, otherwise specify the location) directory. Ensure the dataset contains information on users, books, and user-book interactions.
-Here we have three datasets - 
+Here we have three datasets  YOU CAN DOWNLOAD THEM FROM KAGGLE IT'S A PUBLIC AVAILABLE DATASETS- 
 BOOKS
 RATINGS
 USERS
