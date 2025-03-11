@@ -31,8 +31,10 @@ Saving the trained model for future use USING the pickle file method.
 Evaluation
 To evaluate the performance of the recommender system, use metrics such as Mean Squared Error (MSE), Precision, Recall, and F1-score. The evaluation script will compute these metrics and provide a detailed report.
 
-Contributing
-We welcome contributions to improve the Book Recommender System. To contribute:
+Contribution
+You can make your contribuion over here to make the recommeder system even more feasible and more accurate - 
+
+To contributr to this you can follow the below steps- 
 
 Fork the repository.
 Create a new branch (git checkout -b feature-branch).
