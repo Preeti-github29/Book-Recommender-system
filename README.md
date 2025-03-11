@@ -41,7 +41,7 @@ Push to the branch (git push origin feature-branch).
 Create a pull request.
 
 Acknowledgements
-I would like to thank the open-source community for their contributions to various libraries and datasets used in this project. Special thanks to the creators of the datasets (USED FROM KAGGLE) used for training and evaluating the recommender system.
+I would like to thank the open-source community and the mentor for their contributions to various libraries and datasets used in this project. Special thanks to the creators of the datasets (USED FROM KAGGLE) used for training and evaluating the recommender system.
 
 
 
